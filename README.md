@@ -1,14 +1,15 @@
 # Web_Design
 This repository contains examples and Web Design projects developed with a focus on HTML5 and CSS3. The goal is to present page structures, visual components and modern styles, following good front-end development practices
 
-📂 Conteúdo
-Estruturação semântica com HTML5
+📂 Contents
+Semantic structuring with HTML5
 
-Layouts responsivos com CSS Flexbox e Grid
+Responsive layouts using CSS Flexbox and Grid
 
-Estilização com foco em usabilidade e acessibilidade
+Styling focused on usability and accessibility
 
-Exemplos de landing pages, formulários e componentes de interface
+Examples of landing pages, forms, and UI components
 
-🎯 Público-Alvo
-Estudantes, desenvolvedores iniciantes e profissionais que desejam consultar ou reutilizar componentes básicos de Web Design.
+🎯 Target Audience
+Students, beginner developers, and professionals looking to consult or reuse basic Web Design components.
+
